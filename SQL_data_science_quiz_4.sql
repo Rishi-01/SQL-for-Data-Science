@@ -21,6 +21,7 @@ SELECT FirstName,
 FROM Employees
 
 ------------------------------------------------------------------------------------
+
 -- Q3) Show a list of employees who have worked for the company for 15 or more 
 -- years using the current date function. Sort by lastname ascending.
 
