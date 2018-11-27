@@ -9,6 +9,7 @@ WHERE AlbumId IN (SELECT AlbumId
     WHERE Title = "Californication");
     
 ------------------------------------------------------------------------------------
+
 -- Q2) Find the total number of invoices for each customer along 
 -- with the customer's full name, city and email.
 
