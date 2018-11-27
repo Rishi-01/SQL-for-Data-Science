@@ -6,6 +6,7 @@ WHERE Milliseconds >= 5000000
 
 ------------------------------------------------------------------------------------
 
+
 --Q2) Find all the invoices whose total is between $5 and $15 dollars.
 
 SELECT InvoiceID,Total
